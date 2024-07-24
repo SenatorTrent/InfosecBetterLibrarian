@@ -27,6 +27,9 @@ Another defensive book, on defending against and reverse engineering root and bo
 ### Serious Cryptography
 An intro to modern encryption that starts with the Caesar cipher, ending at post-quantum. There's a whole chapter on randomness! Covers the abstract math, uses python for code.
 
+### Designing Secure Software (A guide for developers)
+What it says on the tin? I haven't had time to review this one in depth. If you do, let me know, and I'll update this description. About the theory behind making secure software, and what to look out for.
+
 ### Silence on the Wire (A field guide to reconnaissance and indirect attacks)
 This one, it's really weird. Different from typical technical books, in that it's less of a reference and more a story about how things work. Main focus is enigmatic data leaking attacks, but to make you understand these, the book explores many different parts of computing. I recommend it!
 
